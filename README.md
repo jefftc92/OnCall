@@ -68,4 +68,4 @@ This project is automatically deployed to GitHub Pages via GitHub Actions.
 
 For dental consultation services: **801-910-8183**
 
-Available 24/7 for medical professionals requiring dental guidance. 
+Available 24/7 for medical professionals requiring dental guidance.  
