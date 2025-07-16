@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BrowserRouter as Router, Routes, Route, Link, useLocation, Navigate } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route, Link, useLocation, Navigate } from 'react-router-dom'
 import { Menu, X, Phone, MessageCircle, Clock, Stethoscope, Brain, FileText, Users, MapPin } from 'lucide-react'
 import { Button } from '@/components/ui/button.jsx'
 import './App.css'
